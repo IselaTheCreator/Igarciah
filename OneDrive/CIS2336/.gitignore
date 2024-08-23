@@ -1,0 +1,14 @@
+# Ignore system files and directories
+AppData/
+*.log
+*.tmp
+*.bak
+
+# Ignore OneDrive metadata files (optional, if you see these)
+._*
+
+# Ignore node_modules folder (if applicable, e.g., in JavaScript projects)
+node_modules/
+
+# Ignore Visual Studio Code settings
+.vscode/
